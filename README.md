@@ -34,15 +34,7 @@ To set up the project locally, follow these steps:
 2. Open Tableau and import the dataset.
 3. Open the Tableau workbook and explore the visualizations.
 
-## Contributions
 
-Contributions to enhance the analysis or add new features are welcome. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Commit your changes: `git commit -m 'Add a new feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
 
 
 
