@@ -34,6 +34,9 @@ To set up the project locally, follow these steps:
 2. Open Tableau and import the dataset.
 3. Open the Tableau workbook and explore the visualizations.
 
+## Visulization 
+viz Link :https://public.tableau.com/views/NewYorkStateSalaryAnalysis_16874639994850/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 
 
