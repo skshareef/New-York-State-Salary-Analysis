@@ -1,5 +1,6 @@
-# New-York-State-Salary-Analysis
 
+
+# New York State Salary Analysis
 
 This project aims to analyze the average salary across industries for the State of New York. The analysis includes visualizations and insights presented on a single sheet using Tableau.
 
@@ -14,6 +15,16 @@ This project aims to analyze the average salary across industries for the State 
 1. **Data**: The project utilizes a dataset containing average salary data across industries for each county in New York.
 2. **Tableau**: The visualization and analysis are built using Tableau.
 3. **Explore**: Navigate through the interactive visualizations on the single sheet, with pop-up charts providing additional insights.
+
+## Preview
+
+Here are some preview images of the visualizations:
+
+![Average Annual Salary by County](images/average_salary_map.png)
+
+![Top 5 Highest Earning Industries by County](images/top_5_industries.png)
+
+![Time Series Analysis](images/time_series_analysis.png)
 
 ## Installation
 
