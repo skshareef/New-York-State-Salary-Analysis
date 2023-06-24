@@ -20,7 +20,7 @@ This project aims to analyze the average salary across industries for the State 
 
 Here are some preview images of the visualizations:
 
-![Average Annual Salary by County](images/img1.png)
+![Average Annual Salary by County](images/imag1.png)
 
 ![Top 5 Highest Earning Industries by County](images/img2.png)
 
@@ -30,7 +30,7 @@ Here are some preview images of the visualizations:
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `[git clone https://github.com/your-username/ny-salary-analysis.git](https://github.com/skshareef/New-York-State-Salary-Analysis.git)`
+1. Clone the repository: `[git clone https://github.com/your-username/ny-salary-analysis.git]`
 2. Open Tableau and import the dataset.
 3. Open the Tableau workbook and explore the visualizations.
 
